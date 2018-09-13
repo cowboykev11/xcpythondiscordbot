@@ -1,1 +1,1 @@
-worker: python Cross Country Bot.py
+worker: python3 Cross Country Bot.py
